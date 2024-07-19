@@ -1,15 +1,15 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: Textbook for AI
+url: ""
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: text book for course of introduction to artificial intelligence.
 author:
   name:
   email:
